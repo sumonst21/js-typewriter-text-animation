@@ -1,1 +1,1 @@
-# js-typewriter-text-animation
+# JavaScript Typewriter - Text Animation
